@@ -74,7 +74,6 @@ function write_env() {
 
 function show_install_menu() {
     clear
-    print_header
     print_simple_header
     echo "Story Installation Options:"
     echo "1) Automated Installation"
