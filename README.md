@@ -116,10 +116,6 @@ If you encounter any issues:
 
 Contributions to the Story AIO Script are welcome. Please fork the repository and submit a pull request with your changes.
 
-## License
-
-\[Insert appropriate license information here\]
-
 ## Disclaimer
 
 This script is provided as-is. Always ensure you understand the actions being performed on your system. It's recommended to run this script on a dedicated machine or VM.
