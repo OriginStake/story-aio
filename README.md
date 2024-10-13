@@ -24,6 +24,7 @@ The Story All-in-One (AIO) Script is a comprehensive tool designed to simplify t
 ## Installation
 
 
+
 1. Clone the repository:
 
    ```
@@ -48,6 +49,7 @@ The Story All-in-One (AIO) Script is a comprehensive tool designed to simplify t
 ## Usage
 
 Upon running the script, you'll be presented with a main menu offering various options:
+
 
 
 1. Install Story - All-in-One Script
@@ -109,6 +111,7 @@ Installation logs are stored in `$HOME/install_log.txt`.
 If you encounter any issues:
 
 
+
 1. Check the installation logs in `$HOME/install_log.txt`
 2. Ensure all dependencies are correctly installed
 3. Verify your system meets the minimum requirements
@@ -130,7 +133,5 @@ This script is provided as-is. Always ensure you understand the actions being pe
 
 For support, please open an issue on the GitHub repository or contact the OriginStake team.
 
-
----
 
 Developed with ❤️ by OriginStake
