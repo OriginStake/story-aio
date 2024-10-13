@@ -30,17 +30,12 @@ The Story All-in-One (AIO) Script is a comprehensive tool designed to simplify t
    ```
    git clone https://github.com/OriginStake/story-aio.git
    ```
-2. Navigate to the script directory:
+2. Navigate to the script directory & Make the main script executable:
 
    ```
-   cd story-aio
+   cd story-aio && chmod +x main.sh
    ```
-3. Make the main script executable:
-
-   ```
-   chmod +x main.sh
-   ```
-4. Run the script:
+3. Run the script:
 
    ```
    ./main.sh
